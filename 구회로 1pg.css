@@ -1,6 +1,6 @@
 *{
     font-family: 'jejugothic', sans-serif;
-    box-sizing: border-box;
+    box-sizing: border-box;    
 }
 
 html{
@@ -8,6 +8,7 @@ html{
     background-image: url("https://www.walldevil.com/wallpapers/a44/web-background-isheepz-writing-templates-writer3a-images.jpg");
     background-attachment: fixed;
     background-size: cover;
+    height: 100%;
 }
 .mouseover{
     float: left;
@@ -19,12 +20,12 @@ html{
 .centerdescription{
     width: auto;
     margin: auto;
-    height: auto;
+    height: 100%;
     vertical-align: middle;
 }
 
 .logo{
-    margin-top: 5%;
+    margin-top: 8%;
     opacity: 0.95;
 }
 
@@ -41,9 +42,5 @@ html{
 }
 
 .furdes1{
-    font-size: 100%;
-}
-
-.email{
     font-size: 100%;
 }
