@@ -1,0 +1,50 @@
+*{
+    font-family: 'jejugothic', sans-serif;
+    box-sizing: border-box;
+    
+}
+
+html{
+    background-repeat: no-repeat;
+    background-image: url("https://www.walldevil.com/wallpapers/a44/web-background-isheepz-writing-templates-writer3a-images.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.mouseover{
+    float: left;
+    position: absolute;
+    left: 20px;
+
+}
+
+.centerdescription{
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.logo{
+    opacity: 0.95;
+}
+
+.describe{
+    font-weight: 900;
+    font-size: 60px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.furdes{
+    margin-left: 20px;
+    margin-top: -20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.furdes1{
+    font-size: 15px;
+}
+
+.email{
+    font-size: 15px;
+}
