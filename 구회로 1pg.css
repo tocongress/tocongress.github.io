@@ -26,7 +26,7 @@ html{
 }
 
 .logo{
-    margin-top: 8%;
+    margin-top: 6%;
     opacity: 0.95;
 }
 
@@ -40,9 +40,13 @@ html{
     margin-top: -20px;
     font-size: 200%;
     text-align: center;
-    font-style: white;
 }
 
 .furdes1{
     font-size: 100%;
+}
+
+.furdes2{
+    font-size: 70%;
+    font-weight: 900;
 }
