@@ -4,11 +4,7 @@
 }
 
 html{
-    background-repeat: no-repeat;
-    background-image: url("https://www.walldevil.com/wallpapers/a44/web-background-isheepz-writing-templates-writer3a-images.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    height: 100%;
+    
 }
 .mouseover{
     float: left;
